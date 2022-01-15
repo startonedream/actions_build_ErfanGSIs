@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://aab4to54oxt7uk4xw5okamtekessa888.node.ppio.cloud:35672/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/16th/7.1.1.4/cn/20190725143823/abdfb5d0/update.zip?f_ver=v1&max_age=7776000&r=OiwdKgZfW2g%2FEzonQRQgEHw1DDMPEFokNhdnDF8HPwIzKgx1MwkNKjxVeXxCHX1CfGlHa1tRWyQ3VXp6B0xiQmBtWG5GXUZ0dhsqLlAXZxFidxwqEQQAIncAITo9KAw0FgEadjYKLSRVETxE&ppiouid=61e27832cf9dee0001cab0313b325522
-  ROM_NAME: Flyme
+  ROM_URL: http://download.h2os.com/oneplus3/MP/OnePlus3Hydrogen_16_OTA_083_all_2002201900_abc8cfd625b5477b.zip
+  ROM_NAME: OxygenOS
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
